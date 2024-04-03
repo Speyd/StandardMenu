@@ -1,0 +1,47 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C\u002B\u002B \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\StundartMenu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD30D7E5-07B1-4ED9-B7FB-37359CFF4CB8}|StundartMenu\\StundartMenu.vcxproj|D:\\C\u002B\u002B \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\StundartMenu\\StundartMenu\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BD30D7E5-07B1-4ED9-B7FB-37359CFF4CB8}|StundartMenu\\StundartMenu.vcxproj|solutionrelative:StundartMenu\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\C\u002B\u002B \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\StundartMenu\\StundartMenu\\main.cpp",
+              "RelativeDocumentMoniker": "StundartMenu\\main.cpp",
+              "ToolTip": "D:\\C\u002B\u002B \u043F\u0440\u043E\u0435\u043A\u0442\u044B\\StundartMenu\\StundartMenu\\main.cpp",
+              "RelativeToolTip": "StundartMenu\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-03T17:41:11.03Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
